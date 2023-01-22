@@ -35,6 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 E um app que ajuda a manter os seus habitos.
+
+-[Visite o projeto online](https://rafaela2802.github.io/Setup-Habits/)
+
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/iEQgIbmHXduGBiwIcfeocE/Habits-(e)-(Community)?node-id=6%3A344&t=Z6GWXjSp8usCrq6P-0)
